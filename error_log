@@ -1,0 +1,32 @@
+[19-Aug-2023 07:34:17 America/Chicago] PHP Warning:  require(/home2/alkhtabo/alkhtaboot.net/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/alkhtabo/alkhtaboot.net/index.php on line 34
+[19-Aug-2023 07:34:17 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/alkhtabo/alkhtaboot.net/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/alkhtabo/alkhtaboot.net/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/alkhtabo/alkhtaboot.net/index.php on line 34
+[19-Aug-2023 07:34:20 America/Chicago] PHP Warning:  require(/home2/alkhtabo/alkhtaboot.net/../vendor/autoload.php): Failed to open stream: No such file or directory in /home2/alkhtabo/alkhtaboot.net/index.php on line 34
+[19-Aug-2023 07:34:20 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/alkhtabo/alkhtaboot.net/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/alkhtabo/alkhtaboot.net/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/alkhtabo/alkhtaboot.net/index.php on line 34
+[29-Aug-2023 13:22:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[29-Aug-2023 13:22:43 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[29-Aug-2023 13:22:54 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[29-Aug-2023 13:23:15 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[29-Aug-2023 13:23:44 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[29-Aug-2023 13:25:07 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[29-Aug-2023 13:25:08 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[06-Nov-2023 13:04:55 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[06-Nov-2023 13:07:22 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[06-Nov-2023 13:32:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[06-Nov-2023 13:38:48 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::add_client() in /home2/alkhtabo/alkhtaboot.net/app/Http/Controllers/Api/ApiController.php on line 57
+[07-Nov-2023 11:00:37 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24
+[07-Nov-2023 11:00:38 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24
+[07-Nov-2023 11:00:38 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24
+[07-Nov-2023 11:01:05 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24
+[07-Nov-2023 11:01:06 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24
+[07-Nov-2023 11:02:34 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24
+[07-Nov-2023 11:02:35 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24
+[07-Nov-2023 11:08:31 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24
+[07-Nov-2023 11:08:31 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24
+[07-Nov-2023 11:08:37 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24
+[07-Nov-2023 11:08:38 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.25. in /home2/alkhtabo/alkhtaboot.net/vendor/composer/platform_check.php on line 24

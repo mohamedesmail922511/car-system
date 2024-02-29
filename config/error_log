@@ -1,0 +1,12 @@
+[23-Dec-2023 00:32:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/alkhtabo/alkhtaboot.net/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/alkhtabo/alkhtaboot.net/config/cache.php on line 18
+[31-Jan-2024 19:44:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/alkhtabo/alkhtaboot.net/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/alkhtabo/alkhtaboot.net/config/cache.php on line 18
+[09-Feb-2024 04:39:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/alkhtabo/alkhtaboot.net/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/alkhtabo/alkhtaboot.net/config/cache.php on line 18
